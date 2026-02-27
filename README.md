@@ -39,15 +39,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
   <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/Agent_panel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/departments.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here Here I'm creating new rule "Supreme Admin"</strong></i></p>
+<p><i><strong>Here I'm going to create a new department. "Departments" section is located in Agents panel. Basic steps are following:<br/>
+Admin Panel -> Agents -> Departments</strong></i></p>
 <p>
 
   <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/Permissions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/NewDepartment.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here I'm giving permissions for "Supreme Agent" role</strong></i></p>
+<p><i><strong>Here I'm creating a new department and calling it as SysAdmin. </strong></i></p>
 <p>
 
   <p>
