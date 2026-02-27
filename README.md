@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
   <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/Agent_panel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/New_rule.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p><i><strong>Here I'm in Agent section of an the Admin panel of osTicket. I'm creating the new role which I'll call "Supreme Admin" and give all the permissions.The basic steps are following:<br/>Admin Panel -> Agents -> Roles -> New Role</strong></i></p>
 <p>
@@ -41,13 +41,13 @@ This tutorial outlines the post-install configuration of the open-source help de
   <p>
 <img src="https://github.com/tabrizcyber/images/blob/main/Agent_panel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here I'm in Agent section of an the Admin panel of osTicket. I'm creating the new role which I'll call "Supreme Admin" and give all the permissions.The basic steps are following:<br/>Admin Panel -> Agents -> Roles -> New Role</strong></i></p>
+<p><i><strong>Here Here I'm creating new rule "Supreme Admin"</strong></i></p>
 <p>
 
   <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/Agent_panel.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/Permissions.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here I'm in Agent section of an the Admin panel of osTicket. I'm creating the new role which I'll call "Supreme Admin" and give all the permissions.The basic steps are following:<br/>Admin Panel -> Agents -> Roles -> New Role</strong></i></p>
+<p><i><strong>Here I'm giving permissions for "Supreme Agent" role</strong></i></p>
 <p>
 
   <p>
