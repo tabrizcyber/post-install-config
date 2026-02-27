@@ -78,19 +78,19 @@ Admin Panel -> Agents -> Add New</i></p>
 <p><i><strong>Here I'm creating a new agent. We can choose a department and roles. We can use the departments we've areated or any department as well as the roles. I've assigned a new agent "Chris" to Support/SysAdmin and gave him arole of SupremeAdmin.</strong></i></p>
 
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/creatingAgent.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/slaSection.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here I'm creating a new agent. We can choose a department and roles. We can use the departments we've areated or any department as well as the roles. I've assigned a new agent "Chris" to Support/SysAdmin and gave him arole of SupremeAdmin.</strong></i></p>
+<p><i><strong>Here I'm going to the Manage panel to look and create SLA rules. There is default rules as well as the section to create custome SLAs.</strong></i></p>
 
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/creatingAgent.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/SLACreating.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here I'm creating a new agent. We can choose a department and roles. We can use the departments we've areated or any department as well as the roles. I've assigned a new agent "Chris" to Support/SysAdmin and gave him arole of SupremeAdmin.</strong></i></p>
+<p><i><strong>Here I'm creating 3 custom SLAs:<br/>Sec-A: Requires 1 hour to be completed and has to be done 24/7<br/>Sec-b:Requires 4 hours to be completed and has to be done 24/7<br/>Sec-C:Requires 8 hours to be completed and has to be done 24/5 like normal business days</strong></i></p>
 
 <p>
-<img src="https://github.com/tabrizcyber/images/blob/main/creatingAgent.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/tabrizcyber/images/blob/main/slaEnd.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p><i><strong>Here I'm creating a new agent. We can choose a department and roles. We can use the departments we've areated or any department as well as the roles. I've assigned a new agent "Chris" to Support/SysAdmin and gave him arole of SupremeAdmin.</strong></i></p>
+<p><i><strong>And this is just a view of SLAs after they've been added</strong></i></p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
